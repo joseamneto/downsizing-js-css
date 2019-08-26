@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/layout" ItemIcon="/temp/IconCache/Applications/16x16/windows.png" />
+  <Item ItemPath="/sitecore/layout/Renderings" ItemIcon="/temp/IconCache/Software/16x16/elements1.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/RenderingAssets" ItemIcon="/temp/iconcache/software/32x32/element.png" />
+  <Item ItemPath="/sitecore/layout/Layouts" ItemIcon="/temp/IconCache/Applications/16x16/windows.png" />
+  <Item ItemPath="/sitecore/layout/Layouts/Rendering Asset Layout" ItemIcon="/temp/iconcache/applications/32x32/window.png" />
+</ItemIconCache>
