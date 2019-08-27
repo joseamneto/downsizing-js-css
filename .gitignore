@@ -1,11 +1,6 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
-
-*.ini
-/.vs/Demo/v15/Server/sqlite3
-*.cache
-/.vs
 /build/
 *.suo
 *.user
@@ -13,7 +8,10 @@ _ReSharper.*/
 *.sdf
 bin/
 obj/
+/obj/
 Debug/
+/Debug/
+/bin/
 Release/
 *.opensdf
 *.tlog
@@ -23,3 +21,13 @@ TestResult.xml
 Version.cs
 Version.h
 Version.cpp
+*/bin/*
+*/obj/*
+*.ini
+*.dll
+*.pdb
+/.vs/Demo/v15/Server/sqlite3
+*.cache
+*.txt
+*.props
+/.vs/config

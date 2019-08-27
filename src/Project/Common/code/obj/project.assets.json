@@ -4383,11 +4383,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josea\\Desktop\\AD-3107\\Demo\\src\\Project\\Common\\code\\Sitecore.Common.Website.csproj",
+      "projectUniqueName": "F:\\BACKUP\\Google Drive\\SITECORE\\Meus Modulos\\downsizing-js-css\\src\\Project\\Common\\code\\Sitecore.Common.Website.csproj",
       "projectName": "Sitecore.Common.Website",
-      "projectPath": "C:\\Users\\josea\\Desktop\\AD-3107\\Demo\\src\\Project\\Common\\code\\Sitecore.Common.Website.csproj",
+      "projectPath": "F:\\BACKUP\\Google Drive\\SITECORE\\Meus Modulos\\downsizing-js-css\\src\\Project\\Common\\code\\Sitecore.Common.Website.csproj",
       "packagesPath": "C:\\Users\\josea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josea\\Desktop\\AD-3107\\Demo\\src\\Project\\Common\\code\\obj\\",
+      "outputPath": "F:\\BACKUP\\Google Drive\\SITECORE\\Meus Modulos\\downsizing-js-css\\src\\Project\\Common\\code\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -4407,11 +4407,11 @@
       "frameworks": {
         "net462": {
           "projectReferences": {
-            "C:\\Users\\josea\\Desktop\\AD-3107\\Demo\\src\\Foundation\\Assets\\code\\Sitecore.Foundation.Assets.csproj": {
-              "projectPath": "C:\\Users\\josea\\Desktop\\AD-3107\\Demo\\src\\Foundation\\Assets\\code\\Sitecore.Foundation.Assets.csproj"
+            "F:\\BACKUP\\Google Drive\\SITECORE\\Meus Modulos\\downsizing-js-css\\src\\Foundation\\Assets\\code\\Sitecore.Foundation.Assets.csproj": {
+              "projectPath": "F:\\BACKUP\\Google Drive\\SITECORE\\Meus Modulos\\downsizing-js-css\\src\\Foundation\\Assets\\code\\Sitecore.Foundation.Assets.csproj"
             },
-            "C:\\Users\\josea\\Desktop\\AD-3107\\Demo\\src\\Foundation\\SitecoreExtensions\\code\\Sitecore.Foundation.SitecoreExtensions.csproj": {
-              "projectPath": "C:\\Users\\josea\\Desktop\\AD-3107\\Demo\\src\\Foundation\\SitecoreExtensions\\code\\Sitecore.Foundation.SitecoreExtensions.csproj"
+            "F:\\BACKUP\\Google Drive\\SITECORE\\Meus Modulos\\downsizing-js-css\\src\\Foundation\\SitecoreExtensions\\code\\Sitecore.Foundation.SitecoreExtensions.csproj": {
+              "projectPath": "F:\\BACKUP\\Google Drive\\SITECORE\\Meus Modulos\\downsizing-js-css\\src\\Foundation\\SitecoreExtensions\\code\\Sitecore.Foundation.SitecoreExtensions.csproj"
             }
           }
         }
