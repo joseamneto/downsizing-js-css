@@ -97,6 +97,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\css\demo.css" />
+    <Content Include="Assets\js\demo1.js" />
     <Content Include="Assets\js\demo.js" />
   </ItemGroup>
   <ItemGroup>

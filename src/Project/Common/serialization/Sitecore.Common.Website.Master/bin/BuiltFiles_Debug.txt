@@ -1,4 +1,5 @@
 F:\BACKUP\Google Drive\SITECORE\Meus Modulos\downsizing-js-css\src\Project\Common\serialization\Sitecore.Common.Website.Master\bin\Debug\Assets\css\demo.css
+F:\BACKUP\Google Drive\SITECORE\Meus Modulos\downsizing-js-css\src\Project\Common\serialization\Sitecore.Common.Website.Master\bin\Debug\Assets\js\demo1.js
 F:\BACKUP\Google Drive\SITECORE\Meus Modulos\downsizing-js-css\src\Project\Common\serialization\Sitecore.Common.Website.Master\bin\Debug\Assets\js\demo.js
 F:\BACKUP\Google Drive\SITECORE\Meus Modulos\downsizing-js-css\src\Project\Common\serialization\Sitecore.Common.Website.Master\bin\Debug\Views\Sample.cshtml
 F:\BACKUP\Google Drive\SITECORE\Meus Modulos\downsizing-js-css\src\Project\Common\serialization\Sitecore.Common.Website.Master\bin\Debug\bin\Antlr3.Runtime.dll
