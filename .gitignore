@@ -3,3 +3,23 @@
 ################################################################################
 
 *.ini
+/.vs/Demo/v15/Server/sqlite3
+*.cache
+/.vs
+/build/
+*.suo
+*.user
+_ReSharper.*/
+*.sdf
+bin/
+obj/
+Debug/
+Release/
+*.opensdf
+*.tlog
+*.log
+TestResult.xml
+*.VisualState.xml
+Version.cs
+Version.h
+Version.cpp

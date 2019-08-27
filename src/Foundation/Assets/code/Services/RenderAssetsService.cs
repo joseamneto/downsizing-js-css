@@ -68,8 +68,8 @@
                 switch (item.ContentType)
                 {
                     case AssetContentType.File:
-                        var bundleJs = Styles.RenderFormat("<link href=\"{0}\" rel=\"stylesheet\" />", item.Content);
-                        sb.AppendFormat(bundleJs.ToString()).AppendLine();
+                        var bundleStyles = Styles.RenderFormat("<link href=\"{0}\" rel=\"stylesheet\" />", item.Content);
+                        sb.AppendFormat(bundleStyles.ToString()).AppendLine();
                         //sb.AppendFormat("<link href=\"{0}\" rel=\"stylesheet\" />", item.Content).AppendLine();
                         break;
                     case AssetContentType.Inline:
