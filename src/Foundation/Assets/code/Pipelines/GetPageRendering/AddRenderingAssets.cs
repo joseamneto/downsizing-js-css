@@ -48,7 +48,10 @@
                 return;
             }
             var asset = AssetRepository.Current.AddInlineStyling(cssInline, true);
-            asset.AddOnceToken = renderingItem.ID.ToString();
+            if (asset != null)
+            {
+                asset.AddOnceToken = renderingItem.ID.ToString();
+            }
         }
 
         private static void AddStylingAssetsFromRendering(Item renderingItem)
@@ -66,7 +69,11 @@
             if (!string.IsNullOrEmpty(javaScriptInline))
             {
                 var asset = AssetRepository.Current.AddInlineScript(javaScriptInline, ScriptLocation.Body, true);
-                asset.AddOnceToken = renderingItem.ID.ToString();
+
+                if (asset != null)
+                {
+                    asset.AddOnceToken = renderingItem.ID.ToString();
+                }
             }
         }
 
