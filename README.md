@@ -11,3 +11,6 @@ on the node <@runtime>
 @    <@assemblyIdentity name="WebGrease" publicKeyToken="31bf3856ad364e35" culture="neutral" #/>
 @    <bindingRedirect oldVersion="0.0.0.0-1.5.1.25624" newVersion="1.6.5135.21930" #/>
 @</dependentAssembly #>
+
+
+Replace @ for Empty and # for Empty strings as well
