@@ -1,5 +1,6 @@
 # downsizing-js-css
 Demo project implementing "Sitecore.Foundation.Assets" with some changes 
+Sitecore 9.01
 
 
 Changes on Web.config
