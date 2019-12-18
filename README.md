@@ -4,7 +4,7 @@ Demo project implementing "Sitecore.Foundation.Assets" with some changes
 
 Changes on Web.config
 
-on the node <runtime>
+on the node <@runtime>
 
 @<dependentAssembly #>
 @    <@assemblyIdentity name="WebGrease" publicKeyToken="31bf3856ad364e35" culture="neutral" #/>
