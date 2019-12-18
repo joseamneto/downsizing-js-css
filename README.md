@@ -13,7 +13,7 @@ Copy the follow and Replace @ for Empty and # for Empty strings as well
 @    <bindingRedirect oldVersion="0.0.0.0-1.5.1.25624" newVersion="1.6.5135.21930" #/>
 @</dependentAssembly #>
 
-2)Sync your TDS projects
+2)change your "TdsGlobal.config.user" to point to your Sitecore Project Url and Folder and , sync your TDS projects
 
 3)Create a Simple Item,
 
