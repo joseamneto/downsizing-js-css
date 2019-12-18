@@ -14,8 +14,13 @@ Copy the follow and Replace @ for Empty and # for Empty strings as well
 @</dependentAssembly #>
 
 2)Sync your TDS projects
+
 3)Create and Simple Item,
-3.1)Change the Layout to use "Rendering asset Layout",
-3.2)Add the demo rnedering called "RenderingAssets"
+
+
+3.1)Change the Layout to use "Rendering asset Layout"
+
+
+3.2)Add the demo rendering called "RenderingAssets"
 
 
