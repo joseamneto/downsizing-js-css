@@ -61,7 +61,7 @@
     <PackageReference Include="Modernizr">
       <Version>2.8.3</Version>
     </PackageReference>
-    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Sitecore.Kernel.NoReferences" Version="9.0.171219" />
     <PackageReference Include="Sitecore.Mvc.NoReferences" Version="9.0.171219" />
     <PackageReference Include="System.ComponentModel" Version="4.0.1" />
